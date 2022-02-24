@@ -1,0 +1,15 @@
+C:\Users\Dowgu\Documents\Work\exercitando\bin\Debug\net6.0\exercitando.exe
+C:\Users\Dowgu\Documents\Work\exercitando\bin\Debug\net6.0\exercitando.deps.json
+C:\Users\Dowgu\Documents\Work\exercitando\bin\Debug\net6.0\exercitando.runtimeconfig.json
+C:\Users\Dowgu\Documents\Work\exercitando\bin\Debug\net6.0\exercitando.dll
+C:\Users\Dowgu\Documents\Work\exercitando\bin\Debug\net6.0\exercitando.pdb
+C:\Users\Dowgu\Documents\Work\exercitando\obj\Debug\net6.0\exercitando.csproj.AssemblyReference.cache
+C:\Users\Dowgu\Documents\Work\exercitando\obj\Debug\net6.0\exercitando.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dowgu\Documents\Work\exercitando\obj\Debug\net6.0\exercitando.AssemblyInfoInputs.cache
+C:\Users\Dowgu\Documents\Work\exercitando\obj\Debug\net6.0\exercitando.AssemblyInfo.cs
+C:\Users\Dowgu\Documents\Work\exercitando\obj\Debug\net6.0\exercitando.csproj.CoreCompileInputs.cache
+C:\Users\Dowgu\Documents\Work\exercitando\obj\Debug\net6.0\exercitando.dll
+C:\Users\Dowgu\Documents\Work\exercitando\obj\Debug\net6.0\refint\exercitando.dll
+C:\Users\Dowgu\Documents\Work\exercitando\obj\Debug\net6.0\exercitando.pdb
+C:\Users\Dowgu\Documents\Work\exercitando\obj\Debug\net6.0\exercitando.genruntimeconfig.cache
+C:\Users\Dowgu\Documents\Work\exercitando\obj\Debug\net6.0\ref\exercitando.dll
